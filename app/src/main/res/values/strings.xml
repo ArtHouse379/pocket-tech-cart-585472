@@ -2,116 +2,120 @@
     <string name="app_name">Pocket Tech Cart</string>
 
     <!-- shared -->
-    <string name="price">£%1$.2f</string>
-    <string name="price_total">Total: £%1$.2f</string>
-    <string name="back_icon_description">Back</string>
-    <string name="clear_cart_icon_description">Clear cart</string>
+    <string name="price">%1$.2f GBP</string>
+    <string name="price_total">Phone total: £%1$.2f</string>
+    <string name="back_icon_description">Go back</string>
+    <string name="clear_cart_icon_description">Empty phone cart</string>
 
     <!-- top bar titles -->
-    <string name="uowjd_top_bar_home_title">Home</string>
-    <string name="uowjd_top_bar_cart_title">Cart</string>
-    <string name="uowjd_top_bar_checkout_title">Checkout</string>
-    <string name="uowjd_top_bar_orders_title">Orders</string>
-    <string name="uowjd_top_bar_settings_title">Settings</string>
-    <string name="uowjd_top_bar_product_details_title">Details</string>
-    <string name="uowjd_top_bar_tagline">The best choice</string>
+    <string name="uowjd_top_bar_home_title">Phone Shop</string>
+    <string name="uowjd_top_bar_cart_title">Phone Cart</string>
+    <string name="uowjd_top_bar_checkout_title">Phone Checkout</string>
+    <string name="uowjd_top_bar_orders_title">Phone Orders</string>
+    <string name="uowjd_top_bar_settings_title">Shop Settings</string>
+    <string name="uowjd_top_bar_product_details_title">Phone Details</string>
+    <string name="uowjd_top_bar_tagline">Phones made simple</string>
 
     <!-- bottom bar navigation item titles -->
-    <string name="uowjd_bottom_bar_nav_item_home_title">Home</string>
-    <string name="uowjd_bottom_bar_nav_item_cart_title">Cart</string>
-    <string name="uowjd_bottom_bar_nav_item_orders_title">Orders</string>
-    <string name="uowjd_bottom_bar_nav_item_settings_title">Settings</string>
+    <string name="uowjd_bottom_bar_nav_item_home_title">Shop</string>
+    <string name="uowjd_bottom_bar_nav_item_cart_title">Basket</string>
+    <string name="uowjd_bottom_bar_nav_item_orders_title">Purchases</string>
+    <string name="uowjd_bottom_bar_nav_item_settings_title">Account</string>
 
     <!-- splash screen -->
-    <string name="uowjd_app_logo_description">App logo</string>
-    <string name="splash_screen_tagline">Everything you need in one place</string>
+    <string name="uowjd_app_logo_description">Phone shop logo</string>
+    <string name="splash_screen_tagline">Your next phone, all in one place</string>
 
     <!-- onboarding screen -->
-    <string name="page_discover_title">Discover What You Need</string>
-    <string name="page_discover_description">Browse thousands of products across every category and find exactly what you\'re looking for.</string>
+    <string name="page_discover_title">Find Your Next Phone</string>
+    <string name="page_discover_description">Browse smartphones, foldables, simple handsets, and accessories to find the right mobile setup.</string>
 
-    <string name="page_checkout_title">Checkout Made Simple</string>
-    <string name="page_checkout_description">Secure payments and a fast, hassle-free checkout every time you shop.</string>
+    <string name="page_checkout_title">Easy Mobile Checkout</string>
+    <string name="page_checkout_description">Order your chosen phone and accessories with a quick, straightforward checkout.</string>
 
-    <string name="page_delivery_title">Fast, Reliable Delivery</string>
-    <string name="page_delivery_description">Track your order in real time and get updates every step of the way.</string>
+    <string name="page_delivery_title">Phones Delivered Fast</string>
+    <string name="page_delivery_description">Follow your handset delivery and receive updates from dispatch to your door.</string>
 
-    <string name="next_button_title">Next</string>
-    <string name="start_button_title">Start</string>
-    <string name="skip_button_title">Skip</string>
+    <string name="next_button_title">Continue</string>
+    <string name="start_button_title">Shop Now</string>
+    <string name="skip_button_title">Browse</string>
 
     <!-- %1$s – button label (Next/Start), %2$d and %3$d – current page number and total number of pages. -->
-    <string name="onboarding_button_progress">%1$s · %2$d/%3$d</string>
+    <string name="onboarding_button_progress">%1$s • %2$d of %3$d</string>
 
     <!-- home screen -->
-    <string name="products_state_empty_primary_text">No products available</string>
-    <string name="home_featured_title">Featured</string>
-    <string name="home_categories_title">Categories</string>
-    <string name="home_products_title">Products</string>
-    <string name="home_products_count">%1$d items</string>
-    <string name="add_to_cart_icon_description">Add to cart</string>
+    <string name="products_state_empty_primary_text">No phones in stock</string>
+    <string name="home_featured_title">Top Phones</string>
+    <string name="home_categories_title">Phone Types</string>
+    <string name="home_products_title">Mobile Gear</string>
+    <string name="home_products_count">%1$d devices</string>
+    <string name="add_to_cart_icon_description">Add phone to basket</string>
 
     <!-- product categories -->
-    <string name="uowjd_category_all">All</string>
+    <string name="uowjd_category_all">All Gear</string>
+    <string name="product_category_smartphones_title">Smartphones</string>
+    <string name="product_category_foldable_phones_title">Foldable Phones</string>
+    <string name="product_category_classic_phones_title">Classic Phones</string>
+    <string name="product_category_accessories_title">Accessories</string>
 
     <!-- product details screen -->
-    <string name="product_details_state_empty_primary_text">No information available for this product</string>
-    <string name="product_image_description">Product image</string>
-    <string name="button_add_to_cart_label">Add to Cart</string>
-    <string name="product_details_description_title">Description</string>
-    <string name="product_details_snackbar_added_to_cart">Added to cart</string>
+    <string name="product_details_state_empty_primary_text">No phone details available</string>
+    <string name="product_image_description">Phone product image</string>
+    <string name="button_add_to_cart_label">Add to Basket</string>
+    <string name="product_details_description_title">Device Details</string>
+    <string name="product_details_snackbar_added_to_cart">Added to phone basket</string>
 
     <!-- cart screen -->
-    <string name="cart_state_empty_primary_text">Nothing in your cart yet</string>
-    <string name="button_place_order_label">Place Order • £%1$.2f</string>
-    <string name="increase_quantity_icon_description">Increase quantity</string>
-    <string name="decrease_quantity_icon_description">Decrease quantity</string>
-    <string name="delete_item_icon_description">Delete item</string>
-    <string name="cart_items_count">Items: %1$d</string>
-    <string name="cart_item_quantity_multiplier">%1$s × %2$d</string>
-    <string name="cart_summary_subtotal_label">Subtotal</string>
-    <string name="cart_summary_delivery_label">Delivery</string>
-    <string name="cart_summary_delivery_free">Free</string>
-    <string name="cart_summary_total_label">Total</string>
+    <string name="cart_state_empty_primary_text">Your phone basket is empty</string>
+    <string name="button_place_order_label">Order Phones • £%1$.2f</string>
+    <string name="increase_quantity_icon_description">Add another device</string>
+    <string name="decrease_quantity_icon_description">Remove one device</string>
+    <string name="delete_item_icon_description">Remove phone item</string>
+    <string name="cart_items_count">Devices: %1$d</string>
+    <string name="cart_item_quantity_multiplier">%2$d × %1$s</string>
+    <string name="cart_summary_subtotal_label">Device subtotal</string>
+    <string name="cart_summary_delivery_label">Phone delivery</string>
+    <string name="cart_summary_delivery_free">Included</string>
+    <string name="cart_summary_total_label">Order total</string>
 
     <!-- orders screen -->
-    <string name="orders_state_empty_primary_text">You have no orders yet</string>
-    <string name="order_number">Order #%1$s</string>
-    <string name="order_customer">Customer: %1$s %2$s</string>
-    <string name="order_customer_email">Email: %1$s</string>
-    <string name="order_date_pattern">dd MMM yyyy, HH:mm</string>
-    <string name="order_status_confirmed">Confirmed</string>
-    <string name="order_total_label">Total</string>
+    <string name="orders_state_empty_primary_text">No phone orders placed</string>
+    <string name="order_number">Phone order %1$s</string>
+    <string name="order_customer">Buyer: %1$s %2$s</string>
+    <string name="order_customer_email">Receipt: %1$s</string>
+    <string name="order_date_pattern">dd/MM/yyyy · HH:mm</string>
+    <string name="order_status_confirmed">Phone confirmed</string>
+    <string name="order_total_label">Order value</string>
 
     <!-- checkout screen -->
-    <string name="checkout_headline">Almost there</string>
-    <string name="checkout_invitation">Leave your name and email — we\'ll confirm the order and keep you posted on delivery.</string>
-    <string name="checkout_text_field_first_name">First Name</string>
-    <string name="checkout_text_field_last_name">Last Name</string>
-    <string name="checkout_text_field_email">Email</string>
-    <string name="checkout_email_supporting_text">The order confirmation goes to this address</string>
-    <string name="checkout_email_error_text">Enter a valid email, for example name@example.com</string>
-    <string name="button_confirm_order_label">Confirm Order</string>
+    <string name="checkout_headline">Phone nearly yours</string>
+    <string name="checkout_invitation">Add your name and email so we can confirm your phone order and share delivery updates.</string>
+    <string name="checkout_text_field_first_name">Given Name</string>
+    <string name="checkout_text_field_last_name">Family Name</string>
+    <string name="checkout_text_field_email">Receipt Email</string>
+    <string name="checkout_email_supporting_text">We send your phone receipt to this address</string>
+    <string name="checkout_email_error_text">Use a valid email such as buyer@example.com</string>
+    <string name="button_confirm_order_label">Buy Phone</string>
 
     <!-- checkout dialog -->
-    <string name="checkout_dialog_title">Thank You for Your Order!</string>
-    <string name="checkout_success_message">Your order has been successfully placed. Please hold on; our team will contact you shortly.</string>
-    <string name="checkout_dialog_confirm">Done</string>
+    <string name="checkout_dialog_title">Your Phone Is Ordered!</string>
+    <string name="checkout_success_message">Your phone order is confirmed. Our mobile team will contact you with delivery details shortly.</string>
+    <string name="checkout_dialog_confirm">Great</string>
 
     <!-- settings screen -->
-    <string name="settings_screen_app_label">Application</string>
-    <string name="settings_screen_version_label">Version</string>
+    <string name="settings_screen_app_label">Phone Shop</string>
+    <string name="settings_screen_version_label">Shop Version</string>
     <string name="uowjd_app_version">1.0.0</string>
 
-    <string name="settings_screen_company_label">Company</string>
+    <string name="settings_screen_company_label">Phone Retailer</string>
     <string name="uowjd_company_name">SK DEVICE HUB LIMITED</string>
 
-    <string name="settings_screen_customer_support_label">Customer Support</string>
+    <string name="settings_screen_customer_support_label">Phone Support</string>
     <string name="uowjd_customer_support_link">https://mobile-tech-hub.top</string>
 
     <!-- clear cart dialog -->
-    <string name="clear_cart_dialog_title">Clear cart?</string>
-    <string name="clear_card_dialog_text">Are you sure you want to remove all items from your cart?</string>
-    <string name="button_confirm_clear_cart">Confirm</string>
-    <string name="button_cancel_clear_cart">Cancel</string>
+    <string name="clear_cart_dialog_title">Empty phone basket?</string>
+    <string name="clear_card_dialog_text">Remove every phone and accessory from your basket?</string>
+    <string name="button_confirm_clear_cart">Empty Basket</string>
+    <string name="button_cancel_clear_cart">Keep Items</string>
 </resources>
